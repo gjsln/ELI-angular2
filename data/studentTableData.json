@@ -1,0 +1,66 @@
+[
+  {
+    "fname": "Tim",
+    "lName": "Cook",
+    "age": "14",
+    "gender": "Male",
+    "address": "4, Franks ISLA, IL 60015",
+    "studImage": "images/male.png"
+  },
+  {
+    "fname": "Jacob",
+    "lName": "Whitman",
+    "age": "13",
+    "gender": "Male",
+    "address": "23, Julien nick st, DC, 10234",
+    "studImage": "images/male.png"
+  },
+  {
+    "fname": "Juia",
+    "lName": "Gu",
+    "age": "13",
+    "gender": "Female",
+    "address": "No. 98, Fullton st, HI, 67099",
+    "studImage": "images/female.png"
+  },
+  {
+    "fname": "Genova",
+    "lName": "Reed",
+    "age": "15",
+    "gender": "Female",
+    "address": "34, Braden ISLA St, FL 30909",
+    "studImage": "images/female.png"
+  },
+  {
+    "fname": "Henry",
+    "lName": "Walls",
+    "age": "16",
+    "gender": "Male",
+    "address": "New nick st, LA, CA 23000",
+    "studImage": "images/male.png"
+  },
+  {
+    "fname": "Kathy",
+    "lName": "Modrosky",
+    "age": "14",
+    "gender": "Female",
+    "address": "Washington BLVD, NJ, 40015",
+    "studImage": "images/female.png"
+  },
+  {
+    "fname": "John",
+    "lName": "Feed",
+    "age": "15",
+    "gender": "Male",
+    "address": "Erdico Nick BLVD, IL 60015",
+    "studImage": "images/male.png"
+  },
+  {
+    "fname": "Angela",
+    "lName": "Merkel",
+    "age": "15",
+    "gender": "Female",
+    "address": "2, 4th st, Riverwoods, IL 60023",
+    "studImage": "images/female.png"
+  }
+]
