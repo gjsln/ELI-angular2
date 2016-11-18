@@ -1,4 +1,4 @@
-export class GithubUser {
+export class StudUser {
     fname: string;
     lName: string;
     age: string;
